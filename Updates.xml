@@ -1,0 +1,19 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.oracledlls</Name>
+  <DisplayName>Oracle Dlls</DisplayName>
+  <Description>Download Essential Oracle Dlls</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2025-09-13</ReleaseDate>
+  <Default>false</Default>
+  <Downloadable>true</Downloadable>
+  <UpdateFile CompressedSize="68443612" OS="Any" UncompressedSize="338716712"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>f9e007bcac3585cf83b55799127f83759d82ee92</SHA1>
+ </PackageUpdate>
+ <SHA1>9b13d26dcf0c34cc95c04b30cdcd807b3bc85375</SHA1>
+ <MetadataName>2025-09-13-2003_meta.7z</MetadataName>
+</Updates>
